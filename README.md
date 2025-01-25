@@ -1,6 +1,9 @@
-# Task Timer CLI
+# Task Timer
 
-A task timer CLI tool, written in Python, to help you manage and track your tasks efficiently.
+## Description
+The Task Timer app is designed to help the user track and manage time spent on various tasks. Users can start and stop timers, view the timesheet, and see the currently running task or tasks. A CLI tool, written in Python. 
+
+## Usage
 
 ## Features
 
@@ -13,6 +16,4 @@ A task timer CLI tool, written in Python, to help you manage and track your task
 - Edit your timesheet
 
 
-## License
 
-This project is licensed under the MIT License.
